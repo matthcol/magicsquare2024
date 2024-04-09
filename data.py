@@ -132,14 +132,14 @@ square_ko_notSquare1d = np.array([1,2])
 square_ko_notSquare3d = np.array([[[1,2], [3,4]],[[5,6], [7,8]]])
 
 
-square_ko_outOfRangeAbove = np.array(
+square3_ko_outOfRangeAbove = np.array(
             [[8,1,6],
             [7,5,13], 
             [4,9,2]]
     )
     
 
-square_ko_outOfRangeUnder = np.array(
+square3_ko_outOfRangeUnder = np.array(
             [[8,1,6],
             [-1,5,7], 
             [4,9,2]]
