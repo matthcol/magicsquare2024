@@ -49,7 +49,7 @@ square5_ok = np.array(
     [20,	11,	13,	4,	17]])
 
 
-square4_ok_albrecht_durer = np.array([
+square4_albrecht_durer = np.array([
     [16,	3,	2,	13], 
     [5, 10, 11, 8],
     [9, 6, 7, 12], 
@@ -57,7 +57,7 @@ square4_ok_albrecht_durer = np.array([
  
 # magic square from 'la Sagrada Familia' in Barcelona
 # NB: repeated numbers, magic sum = 33 not 34
-square_ko_4_josep_maria_subirachs = np.array(
+square4_josep_maria_subirachs = np.array(
         [[1	,14,	14,	4],
         [11,	7,	6,	9],
         [8,	10,	10,	5],
@@ -65,7 +65,7 @@ square_ko_4_josep_maria_subirachs = np.array(
     ) 	
 
 
-square_ok_5_semi_diabolik = np.array(
+square5_semi_diabolik = np.array(
     [[17,	24,	1,	8,	15],
     [23,	5,	7,	14,	16],
     [4,	6,	13,	20,	22],
@@ -74,7 +74,7 @@ square_ok_5_semi_diabolik = np.array(
 )
 
 
-square_ok_8_benjamin_franklin = np.array(
+square8_benjamin_franklin = np.array(
             [[52,	61,	4,	13,	20,	29,	36,	45],
             [14,	3,	62,	51,	46,	35,	30,	19],
             [53,	60,	5,	12,	21,	28,	37,	44],
@@ -86,7 +86,7 @@ square_ok_8_benjamin_franklin = np.array(
     )
 
 
-square_ok_8_general_cazalas = np.array(
+square8_general_cazalas = np.array(
             [[1,	8,	53,	52,	45,	44,	25,	32],
             [64,	57,	12,	13,	20,	21,	40,	33],
             [2,	7,	54,	51,	46,	43,	26,	31],
@@ -98,7 +98,7 @@ square_ok_8_general_cazalas = np.array(
     )
 
 
-square_ok_8_willem_barink = np.array(
+square8_willem_barink = np.array(
             [[60,	6,	11,	53,	44,	22,	27,	37],
             [13,	51,	62,	4,	29,	35,	46,	20],
             [54,	12,	5,	59,	38,	28,	21,	43],
@@ -110,7 +110,7 @@ square_ok_8_willem_barink = np.array(
     )
 
 
-square_ok_12_willem_barink = np.array( 
+square12_willem_barink = np.array( 
             [[138,	8,	17,	127,	114,	32,	41,	103,	90,	56,	65,	79],
             [19,	125,	140,	6,	43,	101,	116,	30,	67,	77,	92,	54],
             [128,	18,	7,	137,	104,	42,	31,	113,	80,	66,	55,	89],
