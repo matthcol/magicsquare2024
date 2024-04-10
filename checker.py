@@ -1,11 +1,11 @@
 import numpy as np
 
 def is_magic(square: np.ndarray) -> bool:
-    pass
+    return False
 
 # n (n² + 1) / 2
 def magic_sum(n: int) -> int:
-    pass
+    return n * (n**2 + 1) // 2
 
 def is_magic_rows(square: np.ndarray, n: int, ms: int) -> bool:
     pass
